@@ -1,2 +1,2 @@
-A = input()
-Print (A)
+import  cv2
+
